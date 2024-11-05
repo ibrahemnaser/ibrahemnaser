@@ -9,7 +9,7 @@ let   myRole= 'I am a ReactJS Front-end developer';
 ```
 
 
-- 🔭 I’m currently working at ***Bit68** multilingual website*
+- 🔭 I’m currently working at ***Bit68***
 - 📫 How to reach me 👇
 
 <a href='https://www.linkedin.com/in/ibrahem-nasser/'>
